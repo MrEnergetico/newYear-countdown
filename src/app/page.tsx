@@ -1,4 +1,5 @@
 'use client';
+import "./globals.css";
 import { useState, useEffect } from 'react';
 import { CACHE_ONE_YEAR } from "next/dist/lib/constants";
 import Image from "next/image";
